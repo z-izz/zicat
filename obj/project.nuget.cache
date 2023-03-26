@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5FSU1OaGluE33hscm9gZmxpA2Pmntr2PKsOgkSEUv6S4DdT1JrwqoVYjMUD24iBGrxAIfUIH4Ww7u6oqglshUg==",
+  "success": true,
+  "projectFilePath": "/home/winksplorer/zicat/zicat.csproj",
+  "expectedPackageFiles": [
+    "/home/winksplorer/.nuget/packages/microsoft.netcore.app.runtime.win-x64/7.0.4/microsoft.netcore.app.runtime.win-x64.7.0.4.nupkg.sha512",
+    "/home/winksplorer/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/7.0.4/microsoft.aspnetcore.app.runtime.win-x64.7.0.4.nupkg.sha512",
+    "/home/winksplorer/.nuget/packages/microsoft.netcore.app.host.win-x64/7.0.4/microsoft.netcore.app.host.win-x64.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
