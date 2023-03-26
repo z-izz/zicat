@@ -7,9 +7,17 @@ zicat catalogs these boxes and lets you search for an item, such as a spare ram 
 
 This is the Linux branch. It is designed to run on a text-based Linux distro on a spare computer.
 
-# How to download
+# How to download & build
 Just run this command:
 `git clone https://github.com/z-izz/zicat`
+
+Then cd into the newly created zicat folder.
+`cd zicat`
+
+Then build.
+`make build`
+
+To run, just type `make run`.
 
 # How to add listings
 zicat uses a zicat.db file in your home folder. For example: `/home/linust/zicat.db`
