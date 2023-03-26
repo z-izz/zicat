@@ -5,7 +5,7 @@ What does that mean? Basically, if you had alot of stuff, you would organize the
 
 zicat catalogs these boxes and lets you search for an item, such as a spare ram stick, and then zicat will tell you which box that item is in.
 
-It is designed to run on a text-based Linux distro on a spare computer.
+This is the Linux branch. It is designed to run on a text-based Linux distro on a spare computer.
 
 # How to download
 Just run this command:
