@@ -20,10 +20,13 @@ Here's a quick template, Although zicat auto-generates this template on first ru
 
 ```ini
 [pcparts]
-# Name and amount is seperated by *
-ram-ddr4-8gb*2
-sata-odd*1
+ram-ddr4-8gb
+ram-ddr4-8gb
+sata-hdd
 [cables]
-micro-usb*4
-usb-c*6
+micro-usb
+micro-usb
+usb-c
+usb-c
+usb-c
 ```
