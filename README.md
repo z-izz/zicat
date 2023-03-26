@@ -14,7 +14,7 @@ Just run this command:
 # How to add listings
 zicat uses a zicat.db file in your home folder. For example: `/home/linust/zicat.db`
 
-The zicat.db file uses a modified version of the .INI file format. <a href="https://youtu.be/3Y84N0ny8wM">This 3-minute video</a> should explain INI for you. Although zicat's INI format is a bit different. We will document this on the wiki soon.
+The zicat.db file uses a modified version of the .INI file format. <a href="https://youtu.be/3Y84N0ny8wM">This 3-minute video</a> should explain INI for you. Although zicat's INI format is a bit different.
 
 Here's a quick template, Although zicat auto-generates this template on first run.
 
