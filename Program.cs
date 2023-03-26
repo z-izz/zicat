@@ -43,7 +43,7 @@ namespace zicat {
             Console.WriteLine("Database successfully read!");
             Console.WriteLine("\nCommands:");
             Console.WriteLine("'$v' ~ View database");
-            Console.WriteLine("'$ed' ~ Edit database using vi");
+            Console.WriteLine("'$ed' ~ Edit database");
             Console.WriteLine("'$q` ~ Exit app");
             Console.WriteLine("\nYou can also just type the name of an item in the database,\nand it will list which box its in and how many there are.");
             while (true)
